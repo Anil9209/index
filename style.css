@@ -1,0 +1,20 @@
+body
+{
+	background-color: #3498db;
+	font-family: 'Abril Fatface', cursive;
+	
+}
+	.paragraph1
+	{
+		background-color:#2ecc71;
+		font-size: 30px;
+		color: white;
+		font-style: italic;
+		font-family: 'Charmonman', cursive;
+
+	}
+.fab{
+			font-size: 50px;
+
+}
+
